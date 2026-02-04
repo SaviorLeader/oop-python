@@ -44,4 +44,4 @@ Bu layihə Python dilində OOP (obyekt yönlü proqramlaşdırma) öyrənmək ü
 ### Terminal vasitəsilə:
 ```bash
 python --version
-python 
+python oop.py
