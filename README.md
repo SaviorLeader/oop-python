@@ -26,9 +26,9 @@ Bu layihə Python dilində OOP (obyekt yönlü proqramlaşdırma) öyrənmək ü
 2. Faylı işə salın:
 
 ```bash oop.py
+``` 
 
-
-##  Python necə yükləmək olar?
+## Python necə yükləmək olar?
 
 1. Brauzerdə Google açın
 2. **Python** sözünü axtarın
@@ -40,9 +40,18 @@ Bu layihə Python dilində OOP (obyekt yönlü proqramlaşdırma) öyrənmək ü
 ---
 
 
-## ▶️ Python necə açılır?
+## Python necə açılır?
 
 ### Terminal vasitəsilə:
 ```bash
+```
 python --version
 python oop.py
+
+
+
+
+
+
+
+
