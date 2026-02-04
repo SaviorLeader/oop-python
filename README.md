@@ -20,10 +20,28 @@ Bu layihə Python dilində OOP (obyekt yönlü proqramlaşdırma) öyrənmək ü
 - Personajlar bir-birinə `attack()` funksiyası ilə hücum edə bilirlər.
 
 
-## ▶️ Necə işə salmaq olar
+## Necə işə salmaq olar
 
 1. Python 3 quraşdırılmış olmalıdır
 2. Faylı işə salın:
 
 ```bash
-python main.py
+
+
+##  Python necə yükləmək olar?
+
+1. Brauzerdə Google açın
+2. **Python** sözünü axtarın
+3. Rəsmi sayta daxil olun: https://www.python.org
+4. **Download Python** düyməsinə basın
+5. Yükləmə zamanı **"Add Python to PATH"** seçimini işarələyin
+6. Quraşdırmanı tamamlayın
+
+---
+
+## ▶️ Python necə açılır?
+
+### Terminal vasitəsilə:
+```bash
+python --version
+python 
