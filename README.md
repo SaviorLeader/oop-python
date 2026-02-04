@@ -18,3 +18,12 @@ Bu layihə Python dilində OOP (obyekt yönlü proqramlaşdırma) öyrənmək ü
   - `health` (sağlamlığı)
   - `attack_power` (hücum gücü) var.  
 - Personajlar bir-birinə `attack()` funksiyası ilə hücum edə bilirlər.
+
+
+## ▶️ Necə işə salmaq olar
+
+1. Python 3 quraşdırılmış olmalıdır
+2. Faylı işə salın:
+
+```bash
+python main.py
