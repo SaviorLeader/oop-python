@@ -16,6 +16,8 @@ class Bro:
         enemy.health -= self.attack_power
         if self.health <= 0:
             print(f"{self.name} attacked {enemy.name} with {self.attack_power} damage,but {self.name} died from the damage received")
+        else:
+            print(f"{self.name} attacked {enemy.name} with {self.attack_power} damage")
 
 f = Fara("fara",50)
 b = Bro("bro",30)
