@@ -25,7 +25,7 @@ Bu layihə Python dilində OOP (obyekt yönlü proqramlaşdırma) öyrənmək ü
 1. Python 3 quraşdırılmış olmalıdır
 2. Faylı işə salın:
 
-```bash
+```bash oop.py
 
 
 ##  Python necə yükləmək olar?
